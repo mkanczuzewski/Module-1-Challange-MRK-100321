@@ -11,6 +11,7 @@ The purpose of this project is to update the Horiseon website to both follow acc
 7. Collapsed CSS sections as necessary
 
 Installation: This website is deployed at the following location:
+https://mkanczuzewski.github.io/Module-1-Challange-MRK-100321/
 
 Usage: This site is for educational purposesly only.
 
